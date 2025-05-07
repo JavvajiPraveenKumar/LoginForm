@@ -57,3 +57,4 @@ function validateEmail(email) {
     const re = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
     return re.test(String(email).toLowerCase());
 }
+// this my java script file and i want to add this file to git hub account
